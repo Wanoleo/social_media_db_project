@@ -2,7 +2,7 @@
  
 A small-scale social media platform built with **Django** and **SQLite**, developed as a Database Systems course project at Dawood University of Engineering and Technology.
  
-**Authors:** Wania Arif · Areeba Azam · Hooria Tariq  
+**Authors:** Wania Arif  
 **Course:** CS-2104 Database System  
  
 ---
